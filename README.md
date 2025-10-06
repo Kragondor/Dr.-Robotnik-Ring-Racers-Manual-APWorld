@@ -38,7 +38,7 @@ i guess if you want you could just ignore these
 Depends on the Difficulty but it's mostly just Beat the last available cup
 
 --Difficulties
-Only currently released difficulties will be described here
+Only currently released difficulties will be described here (also the difficulties are called that because that's what they're called in-game)
 
 -Relaxed
 Select any difficulty, it doesn't matter, you're just here to have fun
