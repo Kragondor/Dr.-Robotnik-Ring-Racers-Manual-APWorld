@@ -1,6 +1,9 @@
 Good Morning, Evening, or Night to Everyone
 This is the manual APworld for the fangame called Dr. Robotnik's Ring racers, i'll explain the checks, progression, & other stuuf later in this message, starting with...
 
+<img width="1379" height="1080" alt="image" src="https://github.com/user-attachments/assets/54dc7e4e-2446-40ac-b6f4-960f51cb8cf0" />
+
+
 --Checks
 for the checks at the current moment we got only Racing, Prisons, & Grand Prix (Special Stages will be added in a later difficulty)
 once i finish it
