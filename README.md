@@ -67,3 +67,20 @@ Grand Prix now requires you to beat a Cup in first place
 Goal is to beat Recycle B Cup
 
  Check Count: 239 (including goal)
+
+ -Vicious
+ Same cup count as Intense
+
+ The minimal difficulty preferably should be at Vicious
+
+ Races now require you to get A ranks for the check
+
+ Prisons now require B rank or higher
+
+ Grand Prix now requires that you beat the cup with a A Rank
+
+ Same Goal as before
+
+ Special Stages are now added as checks (only 14 different special stages so only the first 14 cups have checks for special stages)
+
+ Check Count is 253 (including goal)
