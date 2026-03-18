@@ -1,0 +1,8 @@
+name: Player
+description: Default template created by the Manual Builder tool
+
+game: Manual_DrRobotniksRingRacersVicious_Kragondor
+
+Manual_DrRobotniksRingRacersVicious_Kragondor:
+    progression_balancing: 50
+    accessibility: items
